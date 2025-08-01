@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Aryan Jain</h1>
-- 🌱 I’m currently learning *backend development and problem solving*
+ 🌱 I’m currently learning backend development and problem solving
 
-- 💬 Ask me about *DevOps*
+ 💬 Ask me about *DevOps*
 
-- 📫 How to reach me *aryannjain11@gmail.com*
+ 📫 How to reach me *aryannjain11@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
